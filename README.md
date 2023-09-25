@@ -2,7 +2,7 @@
 
 Hello, This is my first edit to README.md.
 
-#Using Git
+# Using Git
 
 1. git clone (insert repo address here)
 2. git add . 
